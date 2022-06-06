@@ -1,2 +1,2 @@
 # Edureka-intership
-Full Stack Web Development
+Full Stack Web Development- Internship Program
